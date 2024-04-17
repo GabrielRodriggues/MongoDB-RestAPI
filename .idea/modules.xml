@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clima_RestAPI/Clima_RestAPI.iml" filepath="$PROJECT_DIR$/Clima_RestAPI/Clima_RestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fipe_RestAPI/Fipe_RestAPI.iml" filepath="$PROJECT_DIR$/Fipe_RestAPI/Fipe_RestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MongoDB-RestAPI.iml" filepath="$PROJECT_DIR$/.idea/MongoDB-RestAPI.iml" />
+    </modules>
+  </component>
+</project>
